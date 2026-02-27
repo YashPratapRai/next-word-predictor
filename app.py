@@ -38,5 +38,5 @@ st.title("Next Word Prediction using LSTM")
 seed = st.text_input("Enter starting text")
 
 if st.button("Generate"):
-    result = generate_text(seed, 10)
+    result = generate_text(seed, 15)
     st.success(result)
