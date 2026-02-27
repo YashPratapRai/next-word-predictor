@@ -76,6 +76,7 @@ Softmax activation to predict next word from vocabulary.
 ---
 
 ## 📦 Project Structure
+```
 next-word-predictor/
 │
 ├── app.py
@@ -83,6 +84,7 @@ next-word-predictor/
 ├── tokenizer.pkl
 ├── requirements.txt
 └── README.md
+```
 
 ---
 
